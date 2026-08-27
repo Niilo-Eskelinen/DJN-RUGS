@@ -27,7 +27,13 @@
 
 
         <div class="kortti3"><h2>Asiakaspalvelulomake</h2>
-        <p><a href="index.html">Lomake (ps. ei toimi)</a></p></div></div>
+        <form action="/action_page.php" method="get">
+  <label for="fname">Nimi:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Sähköposti:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Lähetä">
+</form></div>
     
 </body>
 </html>
