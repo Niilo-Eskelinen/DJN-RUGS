@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(49,4,4);
+}
+
+h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+p{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+li{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.kortti{
+    background-color: rgb(209, 156, 94);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.kortti2{
+    background-color: rgb(218, 169, 104);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.kortti3{
+    background-color: rgb(228, 180, 141);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
